@@ -1,87 +1,24 @@
-# 👋 Welcome to My GitHub Profile!  
+<div align="center">
+<h1>Hello, I'm Rushikesh Bhagat!</h1>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dev-Rushikesh65&color=blue)  
+💻 About Me
+🚀 I'm Aspiring Full Stack Java Developer.
 
-## 🚀 About Me  
-Hey there! I'm Rushikesh, a passionate **Software Engineer** with a knack for developing innovative and efficient solutions. I am constantly learning and experimenting with new technologies. I aim to create clean, scalable, and high-performing code that can have a positive impact.
+💬 Ask me about web development, data structures.
 
-🔧 **Technologies & Tools I Love**  
-- Programming Languages: `Python`, `JavaScript`, `Java`, `C++`  
-- Frameworks & Libraries: `React`, `Node.js`, `Express`, `Django`, `Flask`, `Spring Boot`  
-- Database: `MongoDB`, `MySQL`, `PostgreSQL`  
-- Tools & Platforms: `Git`, `Docker`, `AWS`, `Heroku`, `Linux`, `VS Code`  
-- Cloud: `AWS EC2`, `S3`, `Lambda`, `Firebase`
 
-🎯 **Currently Focused On**  
-- Building full-stack applications  
-- Exploring the power of **Machine Learning & AI**  
-- Contributing to Open Source projects
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rushi_65_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-bhagat-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushikeshbhagat4209@gmail.com) 
 
-💻 **Feel free to check out some of my recent projects below!**
-
----
-
-## 📂 Featured Projects  
-
-### 1. **[Project Name](LinkToRepo)**
-> A short description of the project goes here.  
-> - **Tech Stack**: `React`, `Node.js`, `MongoDB`
-> - **Description**: Describe what this project is about and what makes it unique.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dev-Rushikesh65&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dev-Rushikesh65&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rushikesh65&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Dev-Rushikesh65&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 2. **[Project Name](LinkToRepo)**
-> A short description of the project goes here.  
-> - **Tech Stack**: `Python`, `Django`, `SQLite`
-> - **Description**: Describe what this project is about and what makes it unique.
-
----
-
-### 3. **[Project Name](LinkToRepo)**
-> A short description of the project goes here.  
-> - **Tech Stack**: `Java`, `Spring Boot`, `MySQL`
-> - **Description**: Describe what this project is about and what makes it unique.
-
----
-
-## 🌟 Open Source Contributions  
-I believe in the power of open-source software and contribute to a variety of repositories. You can find my contributions on the following platforms:
-
-- **[GitHub Contributions](https://github.com/Dev-Rushikesh65?tab=repositories)**  
-- **[Open Source Projects I've Contributed To](LinkToProject)**  
-
----
-
-## 📈 GitHub Stats  
-![Dev-Rushikesh65's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Rushikesh65&show_icons=true&theme=radical)
-
----
-
-## 📫 How to Reach Me  
-- 📧 **Email**: [rushikesh@example.com](mailto:rushikesh@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/rushikesh](https://www.linkedin.com/in/rushikesh)
-- 🐦 **Twitter**: [@rushikesh_dev](https://twitter.com/rushikesh_dev)
-
-Feel free to reach out if you're interested in collaborating or just want to talk tech!  
-
----
-
-## 🔗 Connect With Me  
-You can also check out some of my favorite resources:  
-- **Personal Blog**: [rushikesh.blog](https://rushikesh.blog)  
-- **Medium**: [rushikesh.medium.com](https://rushikesh.medium.com)  
-- **Portfolio**: [rushikesh.dev](https://rushikesh.dev)
-
----
-
-## 📝 Fun Fact  
-When I'm not coding, you can find me:  
-- Reading books 📚  
-- Playing video games 🎮  
-- Exploring new tech trends and ideas 🔍
-
-Thank you for stopping by! 😎
-
----
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Dev-Rushikesh65)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
