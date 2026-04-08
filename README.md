@@ -63,7 +63,7 @@ Open to  : Internships · Collaborations · Open Source
 **🔧 Tools & Platforms**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,intellij" />
 </p>
 
 ---
