@@ -79,40 +79,10 @@ Open to  : Internships · Collaborations · Open Source
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Rushikesh65&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rushikesh65&theme=radical&hide_border=true&layout=compact" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dev-Rushikesh65&theme=radical&hide_border=true" height="160" />
-</p>
-
----
-
-### 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rushikesh_42?theme=dark&font=Fira%20Code&ext=activity&border=0" width="480" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Rushikesh65&theme=dracula&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Rushikesh65&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
