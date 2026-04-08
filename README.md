@@ -51,7 +51,7 @@ Open to  : Internships · Collaborations · Open Source
 **⚙️ Backend & Frameworks**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,hibernate,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,springboot,hibernate,postman" />
 </p>
 
 **🗄️ Databases**
