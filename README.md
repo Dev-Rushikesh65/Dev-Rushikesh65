@@ -1,103 +1,102 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" />
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A960FE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rushikesh+Bhagat;Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+MCA+%40+SIOM+%2727" alt="Typing SVG" />
-</h1>
+# 👋 Hey, I'm Rushikesh Bhagat
 
-<br/>
+### Full Stack Java Developer | Spring Boot & React | SIOM '27
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rushikeshbhagat-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Rushikesh_42/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-bhagat-)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rushi_65_/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Rushikesh65)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Dev-Rushikesh65/portfolio-)
 
-<br/>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-```yaml
-Name     : Rushikesh Santosh Bhagat
-Role     : Aspiring Full Stack Java Developer
-Education: MCA @ Sinhgad Institute of Management, Pune (2025–2027)
-           B.Sc. Computer Science — CGPA 9.02 (2022–2025)
-Location : Pune, Maharashtra, India
-Focus    : Spring Boot · React · REST APIs · Problem Solving
-Open to  : Internships · Collaborations · Open Source
-```
+- 🎓 **MBA Student @ SIOM '27** | Symbiosis Institute of Operations Management
+- 💻 **Full Stack Developer** passionate about building real-world web applications
+- ☕ **Java Enthusiast** — Spring Boot, Servlets, JSP, Hibernate
+- ⚛️ **Frontend** — React, HTML5, CSS3, JavaScript
+- 🏙️ Based in **Pune, India**
+- 🌱 Currently learning **Spring Boot Microservices & React**
+- 💡 I love turning ideas into clean, functional software
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**💻 Languages**
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
-</p>
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JSP](https://img.shields.io/badge/JSP%20%26%20Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**🌐 Frontend**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-</p>
-
-**⚙️ Backend & Frameworks**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,springboot,hibernate,postman" />
-</p>
-
-**🗄️ Databases**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
-
-**🔧 Tools & Platforms**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,intellij" />
-</p>
+### Tools & Platforms
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🚀 Projects
+## 📂 Featured Projects
 
-| Project | Tech Stack | Description |
-|---|---|---|
-| 🔧 **[Puncture.in](https://github.com/Dev-Rushikesh65)** | HTML, CSS, JS, Bootstrap, Node.js, MongoDB | Car service booking platform with auth, admin panel & booking system |
-| 🤖 **[EARS](https://github.com/Dev-Rushikesh65/EARS)** | HTML, CSS, JS, Bootstrap, React.js | Automated resume screening system with candidate ranking & filtering |
-| 🎵 **[Spotify Web Player](https://github.com/Dev-Rushikesh65/Spotify_Web_Player)** | HTML, CSS, JS | Pixel-perfect Spotify UI clone |
-| 🎮 **[Simon Game](https://github.com/Dev-Rushikesh65/Simon-Game)** | HTML, CSS, JS | Browser-based classic Simon memory game |
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Rushikesh65&theme=dracula&hide_border=true&area=true" width="95%" />
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🎓 Exam Portal](https://github.com/Dev-Rushikesh65/Exam-Portal) | Full-stack online examination system with role-based access for Students, Trainers & Admins. Features timed exams, tab-switch detection & instant results. | Java, JSP, MySQL, Tomcat |
+| [💼 EARS](https://github.com/Dev-Rushikesh65/EARS) | Employment Application Review System — streamlines the hiring process | JavaScript |
+| [🔢 Digital Token System](https://github.com/Dev-Rushikesh65/Digital-Token-System) | Queue management system using digital tokens | Java |
+| [🧑‍💼 Recruit Ease](https://github.com/Dev-Rushikesh65/Recruit-Ease) | Recruitment platform to ease the hiring workflow | HTML |
+| [🎮 Simon Game](https://github.com/Dev-Rushikesh65/Simon-Game) | Classic Simon memory game built with JavaScript | JavaScript |
+| [🎵 Spotify Web Player](https://github.com/Dev-Rushikesh65/Spotify_Web_Player) | Spotify UI clone with music player functionality | HTML, CSS |
+| [🌐 Portfolio](https://github.com/Dev-Rushikesh65/portfolio-) | Personal developer portfolio | JavaScript |
 
 ---
 
-### 📜 Certifications
+## 📊 GitHub Stats
 
-- 📊 Data Analytics Job Simulation
-- 💻 Technology Job Simulation
+<div align="center">
+
+![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Rushikesh65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rushikesh65&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Rushikesh65&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-</p>
+## 🏆 GitHub Trophies
 
-<p align="center">⭐ Found something useful? Give it a star!</p>
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Rushikesh65&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 💬 Quote
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+---
+
+<div align="center">
+
+⭐ **Found something useful? Give it a star!** ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dev-Rushikesh65&color=blueviolet&style=for-the-badge)
+
+</div>
