@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **MBA Student @ SIOM '27** | Sinhgad Institute of Management 
+- 🎓 **MCA Student @ SIOM '27** | Sinhgad Institute of Management 
 - 💻 **Full Stack Developer** passionate about building real-world web applications
 - ☕ **Java Enthusiast** — Spring Boot, Servlets, JSP, Hibernate
 - ⚛️ **Frontend** — React, HTML5, CSS3, JavaScript
